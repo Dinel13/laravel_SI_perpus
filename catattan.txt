@@ -1,0 +1,17 @@
+facker dapat diabuat dari tinker atau dengan mengnakan sedder
+
+migrate:fresh data kosomngkan semua
+
+composer aiutoload jika ada nama file yamh diubhat
+
+yajra teidak berfumgsi, buka documentasi , publish dulu baru clear cache
+
+protected fillable pada model agar foem bisa diisi, tapi lebiah buik pak guarded karene langsung terjamin
+
+sweet allert
+
+boostrap notiry
+
+laravel breadcrumb
+
+enctype="multipart/form-data"> untuk input data poto
